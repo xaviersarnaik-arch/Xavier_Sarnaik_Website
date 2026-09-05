@@ -2,8 +2,10 @@ This is my personal website. It is hosted on Github Pages and uses the domain "x
 
 Main Goals:
 
-1) I want to have a good digital footprint. This will be a place for me to spread good, useful, positive information. Any person should be able to visit my website and have a positive or neutral impression of me.
+1) Any person should be able to visit my website and have a positive or neutral impression of me.
 
-2) I want a personal space to show of the stuff I've made.
+2) I'll use it as a personal space to show off my creations.
 
 3) I'll include my CV and other corporate things.
+
+4) I'll join a webring.
